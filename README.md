@@ -1,2 +1,3 @@
 # Curso-Desarrollo-Web-Udemy
-aprendiendo frontend
+Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL de Udemy
+aprendiendo frontend 
